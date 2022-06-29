@@ -46,3 +46,4 @@
 // else{
 //     Console.WriteLine("no");
 //}
+проверка связи
